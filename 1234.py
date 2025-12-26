@@ -45,8 +45,9 @@ def main():
         print(f"Сума елементів масиву: {arr_sum}")
 
     except ValueError:
-        print("Будь ласка, введіть коректне ціле число.")
+        print("Введіть коректне ціле число.")
 
 
 if __name__ == "__main__":
     main()
+
